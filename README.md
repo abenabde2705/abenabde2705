@@ -26,7 +26,7 @@ I'm Amrou Ben Abdessalem, a 20-year-old L3 Computer Science student at the Unive
 
 ## 🌐 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/amrou-ben-abdessalem/)
+- [LinkedIn](https://www.linkedin.com/in/amrou-ben-abdessalem-8b4324294/)
 
 ## 🛠️ Recent Project: Discord Bot (12/2022-02/2023)
 
