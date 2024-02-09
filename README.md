@@ -36,18 +36,17 @@ Developed a Discord bot using Python for group management, moderation, and sched
 
 ## 🌟 Experiences
 
-- **Steak & Shake (06/2022-08/2022):** [Nice 06000]
+- **Full Stack Web Development Internship:** [La Rochelle 17000]
 - **Burger King (09/2022-06/2023):** [La Rochelle 17000]
-- **McDonald's (06/2023-09/2023):** [Nice 06000]
 
 ## 🎮 Hobbies
 
 - **Sports:** Musculation & Callisthénie (2 years), Kickboxing (2018-2020).
-- **Gaming:** CS:GO - Collaboration in a team & decision-making under pressure.
+- **Gaming:** CS:GO.
 
 ## 🚗 Additional Info
 
 - **Driving License:** B
-- **Languages:** French (C1 - TCF), English (TOEFL), German (A2), Arabic (Native).
+- **Languages:** French (C1 - TCF), English (Fluent), German (A2), Arabic (Native).
 
 Feel free to reach out if you're interested in collaboration or have any exciting projects in mind! 🚀
