@@ -1,16 +1,18 @@
 # Hi there! 👋
 
-I'm Amrou Ben Abdessalem, a 20-year-old L3 Computer Science student at the University of La Rochelle. I'm passionate about web development and currently on the lookout for a six-week internship between April and May to apply and enhance my skills in a dynamic team.
+I'm Amrou Ben Abdessalem, a 20-year-old L3 Computer Science student at the University of La Rochelle. I'm passionate about web development and currently on the lookout for a six-week internship between April and May to apply and enhance my skills in a dynamic team. Additionally, I am seeking a subsequent apprenticeship opportunity for September 2024, as I am a future Fullstack development student at myDigitalSchool Paris.
 
 ## 🚀 About Me
 
 - 🎓 **Education:** Currently pursuing a Bachelor's degree in Computer Science (2011-2024) at the University of La Rochelle.
+-> MBA Développeur Full-Stack(2024-2026) at mydigitalschool Paris.
   
 - 🌐 **Projects:** 
   - **Event Management Web App (05/2023-06/2023):**
     Developed and designed an event management web application using Symfony (MVC) and Vue.js. Implemented Axios for optimized communication between the backend and frontend.
-
-  - **Tesla Taxi Reservation Website (04/2022-05/2022):**
+  - **Discord Bot (12/2022-02/2023)**  
+    Created a Discord bot to automate tasks and enhance server management, utilizing Python and the Discord.py library.
+  - **Taxi Reservation Website (04/2022-05/2022):**
     Contributed to the development and design of a website for booking eco-friendly Tesla taxis. Utilized HTML, CSS, and JavaScript to create an intuitive interface.
 
 - 🌱 **Skills:** 
