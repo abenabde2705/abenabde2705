@@ -4,7 +4,7 @@ I'm Amrou Ben Abdessalem, a 20-year-old L3 Computer Science student at the Unive
 
 ## 🚀 About Me
 
-- 🎓 **Education:** Currently pursuing a Bachelor's degree in Computer Science (2011-2024) at the University of La Rochelle.
+- 🎓 **Education:** Currently pursuing a Bachelor's degree in Computer Science (2021-2024) at the University of La Rochelle.
 -> MBA Développeur Full-Stack(2024-2026) at mydigitalschool Paris.
   
 - 🌱 **Skills:** 
