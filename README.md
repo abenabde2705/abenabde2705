@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Amrou Ben Abdessalem, a 20-year-old L3 Computer Science student at the University of La Rochelle. I'm passionate about web development and currently I am seeking an apprenticeship opportunity for September 2024, as I am a future Fullstack development student at myDigitalSchool Paris.
+I'm Amrou Ben Abdessalem, a 21-year-old Computer Science student. I'm passionate about web development and currently I am seeking an apprenticeship opportunity for September 2024, as I am a future Fullstack development student at myDigitalSchool Paris.
 
 ## 🚀 About Me
 
